@@ -3,12 +3,15 @@ environment:
   project: cdf-bootcamp-73-test
   validation-type: test
   selected:
-  - modules/
+    - modules/bootcamp/data_foundation
+    - modules/bootcamp/ice_cream_api
+    - modules/bootcamp/use_cases/oee
 
 variables:
   modules:
     bootcamp:
-      # Variables shared by modules
+      data_foundation:
+        data_developer_source_id: d3e4b238-b7b8-4d61-81cb-50fcbe4bd213
       icapi_ds_external_id: ds_icapi
       icapi_space_name: icapi_dm_space
       ice_cream_api:
