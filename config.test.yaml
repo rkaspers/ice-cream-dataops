@@ -15,7 +15,7 @@ variables:
       icapi_ds_external_id: ds_icapi
       icapi_space_name: icapi_dm_space
       ice_cream_api:
-        icapi_extractors_source_id: 782f9518-cfb7-40fa-a2ae-de826fe9513d
+        icapi_extractors_source_id: b075df88-99db-4feb-832d-57d603922d3c
         tokenUri: ${IDP_TOKEN_URL}
         cdfProjectName: ${CDF_PROJECT}
         scopes: ${IDP_SCOPES}
@@ -26,7 +26,7 @@ variables:
 
       use_cases:
         oee:
-          data_pipeline_oee_source_id: b1d30578-5fbf-4706-a128-110b70ded7f8
+          data_pipeline_oee_source_id: 3def2daf-cc9e-4349-87d9-432cd39700fd
           uc_oee_ds_external_id: ds_uc_oee
           oee_space_name: oee_ts_space
           data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID}
