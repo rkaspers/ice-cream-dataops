@@ -2,6 +2,7 @@
 
 This repository contains the complete solution for the **Cognite Data Fusion (CDF) Bootcamp**, implementing a full DataOps pipeline for the Ice Cream Factory use case.
 
+
 ## 📋 Overview
 
 This project demonstrates a production-ready DataOps implementation using the **Cognite Toolkit** to manage and deploy resources to Cognite Data Fusion. The solution ingests data from the Ice Cream Factory API, transforms it, and calculates OEE (Overall Equipment Effectiveness) metrics.
