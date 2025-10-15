@@ -1,10 +1,6 @@
 name: data_developer
 sourceId: {{ data_developer_source_id }}
 capabilities:
-  - annotationsAcl:
-      actions: [READ, WRITE]
-      scope:
-        all: {}
   - dataModelInstancesAcl:
       actions: [READ, WRITE]
       scope:
