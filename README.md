@@ -270,7 +270,4 @@ This project is part of the Cognite Data Fusion Bootcamp training materials.
 
 ---
 
-**Project**: cdf-bootcamp-73-test  
-**Environment**: Test/Production  
-**Toolkit Version**: 0.6.19
 
